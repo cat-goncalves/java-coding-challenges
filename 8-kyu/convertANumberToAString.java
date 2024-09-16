@@ -10,7 +10,7 @@ Examples:
 999 --> "999"
  */
 
- class Kata {
+ class convertANumberToAString {
   public static String numberToString(int num) {
     return "" + num;
   }

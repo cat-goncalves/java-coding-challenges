@@ -16,14 +16,17 @@ Examples:
   }
 }
 
-class Kata {
-  public static String numberToString(int num) {
-    return Integer.toString(num);
-  }
-}
+/**
+    class Kata {
+      public static String numberToString(int num) {
+        return Integer.toString(num);
+      }
+    }
 
-class Kata {
-  public static String numberToString(int num) {
-    return String.valueOf(num);
-  }
-}
+    class Kata {
+      public static String numberToString(int num) {
+        return String.valueOf(num);
+      }
+    }
+
+ */

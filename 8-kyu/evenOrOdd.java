@@ -7,7 +7,7 @@ Create a function that takes an integer as an argument and returns "Even" for ev
  */
 
  public class EvenOrOdd {
-    public static String even_or_odd(int number) {
+    public static String findEvenOrOdd(int number) {
         return number % 2 == 0 ? "Even" : "Odd";
     }
 }

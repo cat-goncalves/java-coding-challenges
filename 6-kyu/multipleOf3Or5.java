@@ -15,7 +15,7 @@ Note: If the number is a multiple of both 3 and 5, only count it once.
 
  */
 
-public class Solution {
+public class multipleOf3Or5 {
 
   public int solution(int number) {
     int sum = 0;
